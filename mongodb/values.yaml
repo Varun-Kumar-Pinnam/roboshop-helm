@@ -1,0 +1,5 @@
+deployment:
+  changecause: "moving to 1.29.8"
+  # replicas: 1
+  imageName: "varunkumarpinnam/mongodb"
+  imageVersion: "1.0.0"
